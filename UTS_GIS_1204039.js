@@ -1,3 +1,4 @@
+// UTS GIS 1204039
 var point = ee.Geometry.Point([107.292, -7.7018]);
 
 var datal8 = ee.ImageCollection("LANDSAT/LC08/C01/T1_TOA");
